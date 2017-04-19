@@ -1,0 +1,116 @@
+.col-full {
+  flex-basis: 100%; }
+
+.col-half {
+  flex-basis: 50%; }
+
+.col-third {
+  flex-basis: 33.3333%; }
+
+.col-quarter {
+  flex-basis: 25%; }
+
+.col-1of1 {
+  flex-basis: 100%; }
+
+.col-1of2 {
+  flex-basis: 50%; }
+
+.col-1of3 {
+  flex-basis: 33.3333%; }
+
+.col-1of4 {
+  flex-basis: 25%; }
+
+.col-1of5 {
+  flex-basis: 20%; }
+
+.col-1of6 {
+  flex-basis: 16.6666%; }
+
+.col-1of7 {
+  flex-basis: 14.2857%; }
+
+.col-1of8 {
+  flex-basis: 12.5%; }
+
+.col-1of9 {
+  flex-basis: 11.1111%; }
+
+.col-1of10 {
+  flex-basis: 10%; }
+
+.col-1of11 {
+  flex-basis: 9.0909%; }
+
+.col-1of12 {
+  flex-basis: 8.3333%; }
+
+.col-2of2 {
+  flex-basis: 100%; }
+
+.col-2of3 {
+  flex-basis: 66.6666%; }
+
+.col-2of4 {
+  flex-basis: 50%; }
+
+.col-2of5 {
+  flex-basis: 40%; }
+
+.col-2of6 {
+  flex-basis: 33.3333%; }
+
+.col-2of7 {
+  flex-basis: 28.5714%; }
+
+.col-2of8 {
+  flex-basis: 25%; }
+
+.col-2of9 {
+  flex-basis: 22.2222%; }
+
+.col-2of10 {
+  flex-basis: 20%; }
+
+.col-2of11 {
+  flex-basis: 18.1818%; }
+
+.col-2of12 {
+  flex-basis: 16.6666%; }
+
+.col-3of3 {
+  flex-basis: 100%; }
+
+.col-3of4 {
+  flex-basis: 75%; }
+
+.col-3of5 {
+  flex-basis: 60%; }
+
+.col-3of6 {
+  flex-basis: 50%; }
+
+.col-3of7 {
+  flex-basis: 42.8571%; }
+
+.col-3of8 {
+  flex-basis: 37.5%; }
+
+.col-3of9 {
+  flex-basis: 33.3333%; }
+
+.col-3of10 {
+  flex-basis: 30%; }
+
+.col-3of11 {
+  flex-basis: 27.2727%; }
+
+.col-3of12 {
+  flex-basis: 25%; }
+
+.col-4of4 {
+  flex-basis: 100%; }
+
+.col-4of5 {
+  flex-basis: 80%; }
